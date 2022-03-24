@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2022-01-20T16:22:27.000Z",
+    "message": "Hello!",
+    "author": "Alex",
+    "authorAvatar": "https://batelle.com/wp-content/uploads/2021/07/cropped-batelle-fav-1-270x270.png",
+    "authorId": 1
+  },
+  {
+    "id": 2,
+    "createdAt": "2022-01-23T09:22:27.000Z",
+    "message": "Ask a question, please",
+    "author": "Alice",
+    "authorAvatar": "https://batelle.com/wp-content/uploads/2021/07/cropped-batelle-fav-1-270x270.png",
+    "authorId": 2
+  },
+  {
+    "id": 3,
+    "createdAt": "2022-01-23T09:22:27.000Z",
+    "message": "What's up?",
+    "author": "Alex",
+    "authorAvatar": "https://batelle.com/wp-content/uploads/2021/07/cropped-batelle-fav-1-270x270.png",
+    "authorId": 1
+  }
+]
