@@ -1,0 +1,30 @@
+.message_wrapper {
+  display: flex;
+  gap: 12px;
+}
+
+.message_icon > img {
+  height: 32px;
+  width: 32px;
+}
+
+
+.message_body__title {
+  display: flex;
+  gap: 6px;
+  align-items: baseline;
+}
+
+.message_body__title > p {
+  margin-bottom: 0;
+}
+
+.message_body__title_date {
+  font-size: 12px;
+  color: #9f9f9f;
+}
+
+.message_body__title_author {
+  font-weight: bold;
+  font-size: 16px;
+}
